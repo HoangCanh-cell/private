@@ -1,15 +1,5 @@
 <!DOCTYPE html>
-<html>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <body>
-        <header>
-            <div class="container">
-            </div>
-        </header>
-        <main>
-            <div class="container">
-                <div class="register-form">
-                    <form action="" method="post">
+<
               
                             <input type="text" placeholder=" username">
                         </div>

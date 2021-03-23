@@ -10,9 +10,7 @@
             <div class="container">
                 <div class="register-form">
                     <form action="" method="post">
-                        <h1>Đăng ký tài khoản mới</h1>
-                        <div class="input-box">
-
+              
                             <input type="text" placeholder=" username">
                         </div>
                         <div class="input-box">
